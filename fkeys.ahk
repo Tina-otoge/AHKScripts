@@ -11,7 +11,7 @@ Return
 
 #F2::
 #Numpad2::
-Run, firefox.exe "https://mobile.twitter.com/notifications"
+Run, chrome.exe --app="https://mobile.twitter.com/"
 
 Return
 
