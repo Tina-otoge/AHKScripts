@@ -1,3 +1,3 @@
-#^Down::Media_Play_Pause
-#^Left::Media_Prev
-#^Right::Media_Next
+#!Down::Media_Play_Pause
+#!Left::Media_Prev
+#!Right::Media_Next
